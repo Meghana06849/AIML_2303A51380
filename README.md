@@ -14,6 +14,4 @@
 ## Lab Code Notebooks
 1. [Lab 01](https://github.com/Meghana06849/AIML_2303A51380/blob/main/Lab01_AIML.ipynb)
 2. [Lab 02](https://github.com/Meghana06849/AIML_2303A51380/blob/main/Lab02_AIML.ipynb)
-3. [Lab 03](https://github.com/Meghana06849/AIML_2303A51380/blob/main/Lab03_AIML.ipynb).
-
-
+3. [Lab 03](https://github.com/Meghana06849/AIML_2303A51380/blob/main/Lab03_AIML.ipynb)
