@@ -16,4 +16,5 @@
 2. [Lab 02](https://github.com/Meghana06849/AIML_2303A51380/blob/main/Lab02_AIML.ipynb)
 3. [Lab 03](https://github.com/Meghana06849/AIML_2303A51380/blob/main/Lab03_AIML.ipynb)
 4. [Lab 04](https://colab.research.google.com/github/Meghana06849/AIML_2303A51380/blob/main/LAB04_AIML.ipynb)
-5. [Lab 05](https://colab.research.google.com/github/Meghana06849/AIML_2303A51380/blob/main/Lab05-AIML.ipynb).
+5. [Lab 05](https://colab.research.google.com/github/Meghana06849/AIML_2303A51380/blob/main/Lab05-AIML.ipynb)
+6.[Lab 06](https://colab.research.google.com/github/Meghana06849/AIML_2303A51380/blob/main/Lab06_AIML.ipynb)
