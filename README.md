@@ -19,3 +19,4 @@
 5. [Lab 05](https://colab.research.google.com/github/Meghana06849/AIML_2303A51380/blob/main/Lab05-AIML.ipynb)
 6. [Lab 06](https://colab.research.google.com/github/Meghana06849/AIML_2303A51380/blob/main/Lab06_AIML.ipynb)
 7. [Lab 07](https://github.com/Meghana06849/AIML_2303A51380/blob/main/Lab07_AIML.ipynb)
+8. [Lab08](https://github.com/Meghana06849/AIML_2303A51380/blob/main/Lab08_AIML.ipynb)
