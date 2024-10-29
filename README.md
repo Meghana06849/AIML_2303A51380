@@ -21,3 +21,4 @@
 7. [Lab 07](https://github.com/Meghana06849/AIML_2303A51380/blob/main/Lab07_AIML.ipynb)
 8. [Lab 08](https://github.com/Meghana06849/AIML_2303A51380/blob/main/Lab08_AIML.ipynb)
 9. [Lab 09](https://github.com/Meghana06849/AIML_2303A51380/blob/main/Lab09_AIML.ipynb)
+10. [Lab10](https://github.com/Meghana06849/AIML_2303A51380/blob/main/Lab10_AIML.ipynb)
